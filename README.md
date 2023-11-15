@@ -1,2 +1,2 @@
-# About the project
+# Odin Recipes
 A simple HTML project to practice foundations
