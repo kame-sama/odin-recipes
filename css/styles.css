@@ -25,6 +25,6 @@ h1, h2 {
     font-size: 2em;
 }
 
-.to-top {
+.to-top, header {
     text-align: right;
 }
