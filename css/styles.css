@@ -3,6 +3,8 @@
 }
 
 img {
+    height: 500px;
+    width: auto;
     max-height: 500px;
     max-width: 95vw;
 }
