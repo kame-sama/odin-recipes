@@ -46,3 +46,10 @@ a:hover {
 .recipes li {
     margin-bottom: 16px;
 }
+
+.footer {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    align-items: center;
+}
